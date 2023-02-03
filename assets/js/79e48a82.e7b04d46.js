@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[476],{353:e=>{e.exports=JSON.parse('{"title":"Coding Guides","slug":"/category/coding-guides","permalink":"/category/coding-guides","navigation":{"previous":{"title":"Numbers","permalink":"/design-reference/numbers"},"next":{"title":"Basic Example","permalink":"/coding-guides/basic-example"}}}')}}]);

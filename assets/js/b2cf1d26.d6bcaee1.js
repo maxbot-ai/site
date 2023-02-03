@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[354],{7461:t=>{t.exports=JSON.parse('{"title":"Tutorials","slug":"/category/tutorials","permalink":"/category/tutorials","navigation":{"previous":{"title":"Creating Bots","permalink":"/getting-started/creating-bots"},"next":{"title":"Restaurant Bot","permalink":"/tutorials/restaurant"}}}')}}]);

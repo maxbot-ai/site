@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[52],{3230:e=>{e.exports=JSON.parse('{"title":"Design Reference","slug":"/category/design-reference","permalink":"/category/design-reference","navigation":{"previous":{"title":"Templates","permalink":"/design-guides/templates"},"next":{"title":"MaxBot CLI","permalink":"/design-reference/cli"}}}')}}]);
